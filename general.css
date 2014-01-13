@@ -1,0 +1,122 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+	font: normal 100%/1.5 Georgia,serif; /*16px/24px */
+}
+
+h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, dl, figure, table {
+	margin: 0 0 1.5rem;	
+}
+h1, h2, h3, h4, h5, h6,
+p, ul, ol, dl,
+blockquote, table, hr {
+  margin: 0 0 0.4916018025399426rem;
+}
+
+.yotta {
+  font-size: 4.7684rem;
+  line-height: 1.0310;
+}
+
+.zetta {
+  font-size: 3.8147rem;
+  line-height: 1.0310;
+}
+
+h1, .exa {
+  font-size: 3.0518rem;
+  line-height: 1.1276;
+}
+
+h2, .peta {
+  font-size: 2.4414rem;
+  line-height: 1.0068;
+}
+
+h3, .tera {
+  font-size: 1.9531rem;
+  line-height: 1.0068;
+}
+
+h4, .giga {
+  font-size: 1.5625rem;
+  line-height: 1.2585;
+}
+
+h5, .mega {
+  font-size: 1.2500rem;
+  line-height: 1.1798;
+}
+
+h6, .kilo {
+  font-size: 1.0000rem;
+  line-height: 1.4748;
+}
+
+small, .milli {
+  font-size: 0.8000rem;
+  line-height: 1.2290;
+}
+
+.micro {
+  font-size: 0.6400rem;
+  line-height: 1.5363;
+}
+
+
+h1, h2, h3, h4, h5, h6,
+.brand {
+	color: red;
+	font-family: Helvetica, sans-serif;
+}
+
+.brand-family: {
+	font-family: Helvetica, sans-serif;	
+}
+
+.brand-colour, 
+.brand-color {
+	color: red;
+}
+
+::selection {
+	background-color: orange;
+	color: #fff;
+}
+
+a,
+a:link {
+	color: #0f0;
+	text-decoration: none;
+	border-bottom: 0.1em solid rgba(0,255,0,0.5);
+	transition: all 200ms linear;
+}
+
+a:visited {
+	color: #696;
+	border-bottom-color: rgba(50,150,50,0.5);
+}
+
+a:hover,
+a:focus,
+a:active {
+	color: fuchsia;
+	border-bottom-color: fuchsia;
+}
+
+ul {
+	list-style-type: none;
+}
+
+ul li {
+	position: relative;
+}
+
+ul li:before {
+	content: "•";
+	color: #666;
+	position: absolute;
+	left: -1em;
+}
+
