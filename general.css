@@ -1,6 +1,14 @@
 @charset "UTF-8";
 /* CSS Document */
 
+/* HEX & RGBA Values 
+	#0066FF - rgba(0,102,255,0.25), rgba(0,102,255,0.5), rgba(0,102,255,0.75), rgba(0,102,255,0.1)
+	#FFFFFF - rgba(255,255,255,1)
+	#D9D9D9 - rgba(217,217,217,1)
+	#747474 - rgba(116,116,116,1)
+	#000000 - rgba(0,0,0,1)
+*/
+
 html {
 	font: normal 100%/1.75 Helvetica, sans-serif; /*16px/24px */
 }
@@ -61,8 +69,8 @@ small, .milli {
 
 p {
 	font-size: .85rem;
+	color: #000;
 }
-
 
 h1, h2, h3, h4, h5, h6,
 .brand {
@@ -74,11 +82,6 @@ h1, h2, h3, h4, h5, h6,
 	font-family: Helvetica, sans-serif;	
 }
 
-.brand-colour, 
-.brand-color {
-	color: red;
-}
-
 ::selection {
 	background-color: #06F;
 	color: #fff;
@@ -86,7 +89,7 @@ h1, h2, h3, h4, h5, h6,
 
 a,
 a:link {
-	color: #909090;
+	color: #rgba(0,102,255,0.75);
 	text-decoration: none;
 	border-bottom: 0.1em solid rgba(144,144,144,0.5);
 	transition: all 200ms linear;
@@ -100,8 +103,8 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-	color: #747474;
-	border-bottom-color: #747474;
+	color: rgba(0,102,255,0.25);
+	border-bottom-color: rgba(0,102,255,0.25);
 }
 
 ul {
@@ -166,6 +169,7 @@ table thead {
 	padding: 2rem;
 	border: solid #FFF 3px;
 	color: #FFF;
+	text-transform: uppercase;
 }
 
 table td {
@@ -186,4 +190,3 @@ mark {
 
 a, time, i, ins, b, del, s, data, dfn, q, sub, sup, abbr {
 }
-
