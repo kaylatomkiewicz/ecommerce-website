@@ -2,16 +2,11 @@
 /* CSS Document */
 
 html {
-	font: normal 100%/1.5 Georgia,serif; /*16px/24px */
+	font: normal 100%/1.5 Helvetica, sans-serif; /*16px/24px */
 }
 
 h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, dl, figure, table {
 	margin: 0 0 1.5rem;	
-}
-h1, h2, h3, h4, h5, h6,
-p, ul, ol, dl,
-blockquote, table, hr {
-  margin: 0 0 0.4916018025399426rem;
 }
 
 .yotta {
@@ -64,10 +59,14 @@ small, .milli {
   line-height: 1.5363;
 }
 
+p {
+	font-size: .85rem;
+}
+
 
 h1, h2, h3, h4, h5, h6,
 .brand {
-	color: red;
+	color: #747474;
 	font-family: Helvetica, sans-serif;
 }
 
@@ -87,9 +86,9 @@ h1, h2, h3, h4, h5, h6,
 
 a,
 a:link {
-	color: #0f0;
+	color: #909090;
 	text-decoration: none;
-	border-bottom: 0.1em solid rgba(0,255,0,0.5);
+	border-bottom: 0.1em solid rgba(144,144,144,0.5);
 	transition: all 200ms linear;
 }
 
@@ -101,12 +100,13 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-	color: fuchsia;
-	border-bottom-color: fuchsia;
+	color: #747474;
+	border-bottom-color: #747474;
 }
 
 ul {
 	list-style-type: none;
+	font-size: .85rem;
 }
 
 ul li {
@@ -120,3 +120,26 @@ ul li:before {
 	left: -1em;
 }
 
+ol {
+	font-size: .85rem;
+}
+
+dl {
+	font-size: .85rem;
+}
+
+blockquote {
+	margin: 0 8rem 0;
+}
+
+blockquote footer {
+	text-align: right;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}
