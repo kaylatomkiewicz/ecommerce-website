@@ -2,7 +2,7 @@
 /* CSS Document */
 
 html {
-	font: normal 100%/1.5 Helvetica, sans-serif; /*16px/24px */
+	font: normal 100%/1.75 Helvetica, sans-serif; /*16px/24px */
 }
 
 h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, dl, figure, table {
@@ -66,7 +66,7 @@ p {
 
 h1, h2, h3, h4, h5, h6,
 .brand {
-	color: #747474;
+	color: rgba(0,102,255,0.5);
 	font-family: Helvetica, sans-serif;
 }
 
@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 ::selection {
-	background-color: orange;
+	background-color: #06F;
 	color: #fff;
 }
 
@@ -93,8 +93,8 @@ a:link {
 }
 
 a:visited {
-	color: #696;
-	border-bottom-color: rgba(50,150,50,0.5);
+	color: #0066FF;
+	border-bottom-color: rgba(0,102,255,0.5);
 }
 
 a:hover,
@@ -114,10 +114,10 @@ ul li {
 }
 
 ul li:before {
-	content: "•";
-	color: #666;
+	content: "►";
+	color: #0066FF;
 	position: absolute;
-	left: -1em;
+	left: -1.5em;
 }
 
 ol {
@@ -136,6 +136,10 @@ blockquote footer {
 	text-align: right;
 }
 
+cite {
+	color: rgba(0,102,255,1);
+}
+
 strong {
 	font-weight: bold;
 }
@@ -143,3 +147,43 @@ strong {
 em {
 	font-style: italic;
 }
+
+hr {
+	height: 2px;
+	color: #D9D9D9;
+	background-color: #D9D9D9;
+}
+
+table {
+	background-color: #FFF;
+	border: #FFF;
+	width: 100%;
+}
+
+table thead {
+	background-color: rgba(0,102,255,0.25);
+	font-size: 1.25rem;
+	padding: 2rem;
+	border: solid #FFF 3px;
+	color: #FFF;
+}
+
+table td {
+	font-size: .85rem;
+	text-align: right;
+	padding: .5rem 2rem;
+}
+
+caption {
+	font-size: .75rem;
+	text-align: right;
+	color: #747474;
+}
+
+mark {
+	background-color: rgba(0,102,255,0.25);
+}
+
+a, time, i, ins, b, del, s, data, dfn, q, sub, sup, abbr {
+}
+
