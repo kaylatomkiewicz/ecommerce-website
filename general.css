@@ -89,9 +89,9 @@ h1, h2, h3, h4, h5, h6,
 
 a,
 a:link {
-	color: #rgba(0,102,255,0.75);
+	color: rgba(0,102,255,0.5);
 	text-decoration: none;
-	border-bottom: 0.1em solid rgba(144,144,144,0.5);
+	border-bottom: 0.1em solid rgba(0,102,255,0.5);
 	transition: all 200ms linear;
 }
 
