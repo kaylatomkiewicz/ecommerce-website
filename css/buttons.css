@@ -4,7 +4,6 @@
 body {
 	text-transform: uppercase;
 	font-family: Helvetica, sans-serif;
-	
 }
 
 a,
@@ -17,8 +16,8 @@ a:link {
 .btn:visited {
 	display: inline-block;
 	padding: .85em 1em;
-	background-color: #0066FF;
-	background-image: linear-gradient(to bottom, #0066FF, #0044DD);
+	background-color: #E36062;
+	background-image: linear-gradient(to bottom, #F58284, #E36062);
 	border-radius: 12px;
 	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
 	color: #FFF;
@@ -30,5 +29,5 @@ a:link {
 .btn-alt:link,
 .btn-alt:visited {
 	background-color: #0066FF;
-	background-image: linear-gradient(to bottom, #5d8432, #3b6210);
+	background-image: linear-gradient(to bottom, #81C696, #60A474);
 }
