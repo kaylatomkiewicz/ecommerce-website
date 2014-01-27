@@ -1,3 +1,28 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.product {
+	margin: 1rem;
+}
+
+.product-detail {
+	overflow: hidden;
+}
+
+.less-margin {
+	margin-bottom: 0;
+}
+
+.img-char {
+	width: 100%;
+	display: block;
+}
+
+.img-position {
+	float: left;
+	margin: 0 0 10px 0;
+}
+
+.product-text {
+	overflow: hidden;
+}
