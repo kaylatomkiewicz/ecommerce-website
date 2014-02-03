@@ -3,16 +3,29 @@
 
 body {
 	background-color: #FFF;
-	padding: 1.5rem 5rem .5rem;
+	padding: 1.5rem 5rem 1.5rem;
 	border-bottom: rgba(0,102,255,0.25) solid 4px;
 }
 
 h1 {
-	overflow: hidden;
 	float: right;
 }
 
 ol {
 	list-style: none;
-	display: inline-block;
 }
+
+.nav a,
+.nav a:link,
+.nav a:visited {
+	text-decoration: none;
+	padding: .5rem .4rem;
+	color: #FFFFFF;
+}
+
+.nav a:hover,
+.nav a:focus,
+.nav a:active {
+	background-color: #FFF;
+}
+
