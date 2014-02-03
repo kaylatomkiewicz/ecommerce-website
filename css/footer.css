@@ -4,8 +4,6 @@
 footer {
 	background-color: #FFF;
 	height: 2rem;
-	position: fixed;
-	width: 90%;
 	bottom: 0;
 	padding: 2rem;
 }
@@ -18,6 +16,3 @@ footer {
 	float: right;
 }
 
-p {
-	float: left;
-}
