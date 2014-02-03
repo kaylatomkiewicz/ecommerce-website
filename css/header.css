@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #FFF;
+	padding: 1.5rem 5rem .5rem;
+	border-bottom: rgba(0,102,255,0.25) solid 4px;
+}
+
+h1 {
+	overflow: hidden;
+	float: right;
+}
+
+ol {
+	list-style: none;
+	display: inline-block;
+}
