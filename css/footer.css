@@ -2,13 +2,23 @@
 /* CSS Document */
 
 footer {
-	background-color: #FFF;
-	height: 3rem;
-	width: 100%;
+	background-color: none;
+	height: 2rem;
 	position: fixed;
+	width: 90%;
 	bottom: 0;
+	padding: 2rem;
+}
+
+.social {
+	width: 2rem;
+	display: block;
+	border: none;
+	padding: 0 .25rem;
+	float: right;
+	
 }
 
 p {
-	float: right;
+	float: left;
 }

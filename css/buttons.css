@@ -31,3 +31,9 @@ a:link {
 	background-color: #0066FF;
 	background-image: linear-gradient(to bottom, #81C696, #60A474);
 }
+
+.btn:hover,
+.btn:focus,
+.btn:active {
+	background-color: rgba (0,0,0,0.5);
+}
