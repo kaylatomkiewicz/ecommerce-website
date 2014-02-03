@@ -190,3 +190,7 @@ mark {
 
 a, time, i, ins, b, del, s, data, dfn, q, sub, sup, abbr {
 }
+
+.extra-mar {
+	margin-top: 1rem;
+}

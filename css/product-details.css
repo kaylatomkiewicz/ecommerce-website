@@ -1,3 +1,15 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.list-details {
+	margin: 2rem 2rem 0 0;
+}
+
+.price {
+	float: right;
+	margin-right: 3rem;
+}
+
+.img-size {
+	width: 100%;
+}
