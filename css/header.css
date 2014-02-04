@@ -1,23 +1,14 @@
 @charset "UTF-8";
 /* CSS Document */
 
-body {
-	background-color: #FFF;
-	padding: 1.5rem 5rem 1.5rem;
-}
-
 h1 {
-	float: right;
-}
-
-ol {
-	list-style: none;
+	font-size: 2rem;
+	text-align: center;
 }
 
 .nav {
-	padding-bottom: 1.5rem;
-	border-bottom: rgba(0,102,255,0.25) solid 4px;
-
+	margin-right: auto;
+	margin-left: auto;
 }
 
 .nav a,
@@ -33,3 +24,24 @@ ol {
 	background-color: #FFF;
 }
 
+@media only screen and (min-width: 30em) {
+
+body {
+	background-color: #FFF;
+	padding: 1.5rem 5rem 1.5rem;
+}
+
+h1 {
+	font-size: 3.0518rem;
+	float: right;
+}
+
+ol {
+	list-style: none;
+}
+
+.nav {
+	padding-bottom: 1.5rem;
+	border-bottom: rgba(0,102,255,0.25) solid 4px;
+
+}
