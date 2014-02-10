@@ -1,12 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
 
-h1 {
-	font-size: 2rem;
-	text-align: center;
-}
-
 .title {
+	font-size: 1.9531rem;
 	text-align: center;
 }
 
@@ -40,11 +36,6 @@ body {
 	padding: 1.5rem 5rem 1.5rem;
 }
 
-h1 {
-	font-size: 3.0518rem;
-	float: right;
-}
-
 ol {
 	list-style: none;
 }
@@ -52,5 +43,14 @@ ol {
 .nav {
 	padding-bottom: 1.5rem;
 	border-bottom: rgba(0,102,255,0.25) solid 4px;
+}
+}
+
+@media only screen and (min-width: 50em) {
+
+.title {
+	font-size: 3.0518rem;
+	float: right;
+}
 
 }

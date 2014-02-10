@@ -195,6 +195,6 @@ a, time, i, ins, b, del, s, data, dfn, q, sub, sup, abbr {
 	margin-top: 1rem;
 }
 
-.extra-mar-bottom: {
-	margin-bottom: 6rem;
+.extra-mar-bottom {
+	margin-bottom: 4rem;
 }

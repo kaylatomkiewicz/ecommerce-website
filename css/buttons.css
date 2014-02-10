@@ -58,6 +58,7 @@ btn-alt:active {
 	color: #FFF;
 	font-weight: bold;
 	border: 0;
+  font-size: 1.0000rem;
 }
 
 .btn-alt,
@@ -72,4 +73,6 @@ btn-alt:active {
 	color: #FFF;
 	font-weight: bold;
 	border: 0;
+  font-size: 1.0000rem;
+
 }
