@@ -1,6 +1,35 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.small {
+	font-size: .75rem;
+}
+
+footer {
+	background-color: #FFF;
+	height: 2rem;
+	bottom: 0;
+	padding: 1rem;
+}
+
+.social {
+	width: 2rem;
+	display: block;
+	border: none;
+	padding: 0 .25rem;
+	float: right;
+}
+
+.extra-pad {
+	padding-bottom: 1rem;
+}
+
+@media only screen and (min-width: 30em) {
+
+.small {
+	font-size: 1rem;
+}
+
 footer {
 	background-color: #FFF;
 	height: 2rem;
@@ -12,7 +41,7 @@ footer {
 	width: 2rem;
 	display: block;
 	border: none;
-	padding: 0 .25rem;
+	padding: 0 .5rem;
 	float: right;
 }
 
