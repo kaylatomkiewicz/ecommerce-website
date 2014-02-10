@@ -6,6 +6,10 @@ h1 {
 	text-align: center;
 }
 
+.title {
+	text-align: center;
+}
+
 .nav {
 	margin-right: auto;
 	margin-left: auto;
@@ -21,7 +25,12 @@ h1 {
 .nav a:hover,
 .nav a:focus,
 .nav a:active {
-	background-color: #FFF;
+	color: #FFF;
+}
+
+.search {
+	float: right;
+	padding-top: 1.5rem;
 }
 
 @media only screen and (min-width: 30em) {
