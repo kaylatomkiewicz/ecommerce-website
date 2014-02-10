@@ -6,10 +6,6 @@ body {
 	font-family: Helvetica, sans-serif;
 }
 
-a,
-a:link {
-	text-decoration: none;
-}
 
 .btn,
 .btn:link,
@@ -28,6 +24,19 @@ a:link {
 .btn-alt,
 .btn-alt:link,
 .btn-alt:visited {
+	display: inline-block;
+	padding: .85em 1em;
 	background-color: #0066FF;
 	background-image: linear-gradient(to bottom, #81C696, #60A474);
+	border-radius: 12px;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+	color: #FFF;
+	font-weight: bold;
+	border: 0;
 }
+
+btn-alt:hover,
+btn-alt:focus,
+btn-alt:active {
+	color: rgba(0,102,255,0.25);
+	border-bottom-color: rgba(0,102,255,0.25);

@@ -6,13 +6,8 @@ p {
 }
 
 .product {
-	margin: 1rem .5rem;
 	border: solid #D9D9D9 1px;
 	padding: 1rem;
-}
-
-.product-detail {
-	overflow: hidden;
 }
 
 .less-margin {
@@ -21,10 +16,8 @@ p {
 
 .img-char {
 	width: 100%;
-	display: block;
 }
 
 .img-position {
 	float: left;
-	margin: 0 0 10px 0;
 }

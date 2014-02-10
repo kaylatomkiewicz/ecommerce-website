@@ -3,7 +3,6 @@
 
 .right {
 	float:right;
-	padding: 1rem;
 }
 
 .little-extra-mar {
@@ -19,4 +18,16 @@
 	padding-bottom: 9rem;
 }
 
+@media only screen and (min-width: 30em) {
+	
+	h3 {
+		font-size: 1rem;
+	}
+}
 
+@media only screen and (min-width: 50em) {
+	
+	h3 {
+  		font-size: 1.5625rem;
+	}
+}
