@@ -2,9 +2,68 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Untitled Document</title>
+<title>Knit Corner</title>
+<link href="../css/buttons.css" rel="stylesheet">
+<link href="../css/common.css" rel="stylesheet">
+<link href="../css/forms.css" rel="stylesheet">
+<link href="../css/grid.css" rel="stylesheet">
+<link href="../css/header.css" rel="stylesheet">
+<link href="../css/list-group.css" rel="stylesheet">
+<link href="../css/media-object.css" rel="stylesheet">
+<link href="../css/product-details.css" rel="stylesheet">
+<link href="../css/product-list.css" rel="stylesheet">
+<link href="../css/promos.css" rel="stylesheet">
+<link href="../css/typography.css" rel="stylesheet">
+<link href="../css/footer.css" rel="stylesheet">
 </head>
 
 <body>
+
+<!-- Header --------------------------------------------------------------->
+
+    <header>
+    
+        <div class="nav">
+        
+            <h1 class="title">Cozy Knit Corner</h1>
+                
+                <nav>
+                       <a class="btn milli" href="#">About Us</a>
+                       <a class="btn milli" href="#">Store</a>
+                       <a class="btn milli" href="#">Contact</a>
+               </nav>
+               
+        </div>
+    
+        <div class="search">
+        
+            <form action="/search.html" class="search-wrapper cf">
+                <input type="text" placeholder="Search" required="">
+                <button type="submit">Search</button>
+            </form>
+            
+        </div>
+        
+    </header>
+    
+<!-- Content --------------------------------------------------------------->
+
+
+{{content}}
+
+
+<!-- Footer --------------------------------------------------------------->
+
+
+	<footer>
+
+		<a href="http://facebook.com"><img class="social" src="../images/fb-icon.svg" alt="Facebook Icon"></a>
+
+				<a href="http://twitter.com"><img class="social" src="../images/twitter.svg" alt="Twitter Icon"></a>
+
+		<p class="extra-pad small">Copyright 2014. Property of Cozy Knit Corner Inc.</p>
+    
+    </footer>
+
 </body>
 </html>
