@@ -165,8 +165,8 @@ table {
 
 table thead {
 	background-color: rgba(0,102,255,0.25);
-	font-size: 1.25rem;
-	padding: 2rem;
+	font-size: 1rem;
+	padding: 1rem;
 	border: solid #FFF 3px;
 	color: #FFF;
 	text-transform: uppercase;
@@ -174,9 +174,30 @@ table thead {
 
 table td {
 	font-size: .85rem;
-	text-align: right;
-	padding: .5rem 2rem;
+	text-align: left;
+	padding: .5rem 1rem;
 }
+
+@media only screen and (min-width: 30em) {
+
+table {
+	background-color: #FFF;
+	border: #FFF;
+	width: 75%;
+}
+
+}
+
+@media only screen and (min-width: 50em) {
+
+table {
+	background-color: #FFF;
+	border: #FFF;
+	width: 50%;
+}
+
+}
+
 
 caption {
 	font-size: .75rem;
