@@ -3,21 +3,21 @@
 
 .display-image-right {
 	width: 100%;
+	display: block;
 }
 
 .display-image-left {
 	width: 100%;
+	display: block;
 }
 
 @media only screen and (min-width: 30em) {
 
 .display-image-right {
-	width: 100%;
 	padding-left: 1rem;
 }
 
 .display-image-left {
-	width: 100%;
 	padding-right: 1rem;
 }
 
@@ -26,12 +26,10 @@
 @media only screen and (min-width: 50em) {
 
 .display-image-right {
-	width: 100%;
 	padding-left: 2rem;
 }
 
 .display-image-left {
-	width: 100%;
 	padding-right: 2rem;
 }
 
