@@ -11,17 +11,14 @@
 	margin-left: auto;
 }
 
-.nav a,
-.nav a:link,
-.nav a:visited {
-	text-decoration: none;
-	color: #FFFFFF;
+nav a:hover,
+nav a:focus,
+nav a:active {
+	background-color: #666;
 }
 
-.nav a:hover,
-.nav a:focus,
-.nav a:active {
-	color: #FFF;
+nav .selected {
+	background-color: #999;
 }
 
 .search {

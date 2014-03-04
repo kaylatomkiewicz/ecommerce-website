@@ -21,6 +21,7 @@ body {
 	font-weight: bold;
 	border: 0;
 	text-align: center;
+	width: 7rem;
 }
 
 .btn-alt,
@@ -35,19 +36,20 @@ body {
 	font-weight: bold;
 	border: 0;
 	text-align: center;
+	width: 7rem;
 }
 
 btn:hover,
 btn:focus,
 btn:active {
-	background-image: linear-gradient(to bottom, #60A474, #40A252);
+	background-color: linear-gradient(to bottom, #60A474, #40A252);
 	border-bottom-color: rgba(0,102,255,0.25);
 }
 
 btn-alt:hover,
 btn-alt:focus,
 btn-alt:active {
-	background-image: linear-gradient(to bottom, #60A474, #40A252);
+	background-color: linear-gradient(to bottom, #60A474, #40A252);
 	border-bottom-color: rgba(0,102,255,0.25);
 }
 	
