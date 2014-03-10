@@ -120,7 +120,7 @@ ul li:before {
 	content: "►";
 	color: #0066FF;
 	position: absolute;
-	left: -1.5em;
+	left: -2em;
 }
 
 ol {
@@ -226,4 +226,8 @@ a, time, i, ins, b, del, s, data, dfn, q, sub, sup, abbr {
 
 .gutter {
 	padding: 1rem;
+}
+
+.gutter-side {
+	padding-right: 1.5rem;
 }
