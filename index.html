@@ -10,11 +10,15 @@ layout: default
 <div class="grid">
     
     	<div class="module module-m-1-2 module-l-1-2">
-       		<img class="display-image-left" src="http://placehold.it/400x200" alt="This is a second introductory image.">
+       		{% include promo-small.html title="Spring Clearout!" desc="Save 50% on Luxury winter yarns" image="yarn.jpg" %}
        </div>
        
        <div class="module module-m-1-2 module-l-1-2">
-        	<img class="display-image-right" src="http://placehold.it/400x200" alt="This is an introductory image."> 
+        	{% include promo-small.html title="Doorbuster" desc="Visit one of two locations before 10am, March 20th and get a $20 gift card!" image="yarn.jpg" %}
+       </div>
+       
+       <div class="module module-m-1-2 module-l-1-2">
+        	{% include promo-small.html title="Spring & Summer Arrivals" desc="Shop our new selections now!" image="yarn.jpg" %}
        </div>
    
 </div>
