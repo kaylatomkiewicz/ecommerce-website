@@ -60,10 +60,10 @@ ol {
 	background: #6e9d1b url("../images/banner.jpg") no-repeat center center;
 	background-size: cover;
 	text-align: right;
-	padding: 6rem 2rem 1rem;
+	padding: 8rem 3rem 1rem;
 	margin-bottom: 2rem;
 }
 
-.banner h3 {
+.banner h4 {
 	color: #fff;
 }
