@@ -52,8 +52,10 @@ ol {
 
 }
 
-.current {
-	border: solid 3px #D9D9D9;
+.current,
+.current:link,
+.current:visited {
+	border: 3px solid #D9D9D9;
 }
 
 .banner {
