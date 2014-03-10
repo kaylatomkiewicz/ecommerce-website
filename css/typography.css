@@ -223,3 +223,7 @@ a, time, i, ins, b, del, s, data, dfn, q, sub, sup, abbr {
 .extralg-mar-bottom {
 	margin-bottom: 6rem;
 }
+
+.gutter {
+	padding: 1rem;
+}

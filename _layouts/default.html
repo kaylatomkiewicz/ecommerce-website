@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Knit Corner</title>
+<title>{{page.title}} · Cozy Corner</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -33,9 +33,9 @@
             <h1 class="title">Cozy Corner</h1>
                 
                 <nav>
-                       <a class="btn milli" href="{{site.baseurl}}/">Home</a>
-                       <a class="btn milli" href="{{site.baseurl}}/about/">About Us</a>
-                       <a class="btn milli" href="{{site.baseurl}}/contact/">Contact</a>
+                       <a class="btn milli {% if page.url == '/' %}current{% endif %}" href="{{site.baseurl}}/">Home</a>
+                       <a class="btn milli {% if page.url contains 'about' %}current{% endif %}" href="{{site.baseurl}}/about/">About Us</a>
+                       <a class="btn milli {% if page.url == '/contact/' %}current{% endif %}" href="{{site.baseurl}}/contact/">Contact</a>
                </nav>
                
         </div>
@@ -50,6 +50,13 @@
         </div>
         
     </header>
+    
+{% if page.showbanner %}
+    <div class="banner">
+        <h3>{{page.bannertext}}</h3>
+    </div>
+{% endif %}
+
     
 <!-- Content --------------------------------------------------------------->
 
