@@ -1,15 +1,15 @@
 ---
 layout: default
 category: yarn
-name: Bernat
+name: Bernat Boa in Multi
 price: $3.99
-image: 
+image: product/y-multi.jpg
 ---
 
 Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity.
 
 ## Specifications
 
-Colour: Deep Orange
-Spool Length: 35m
-Scarf Requirements: Makes one scarf
+- Colour: Summer Multicolour
+- Spool Length: 35m
+- Scarf Requirements: Makes one scarf

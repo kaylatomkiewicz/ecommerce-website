@@ -1,14 +1,15 @@
 ---
 layout: default
 category: yarn
-name: Homespun in Deep Orange
+name: Bernat Truffles
 price: $3.99
-image: air-dinos/pteranodon.jpg
+image: product/y-orange-pink.jpg
 ---
 
 Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity.
 
 ## Specifications
 
-Colour: Deep Orange
-Spool Length: 40m
+- Colour: Bright orange and pink.
+- Spool Length: 35m
+- Scarf Requirements: Makes one scarf

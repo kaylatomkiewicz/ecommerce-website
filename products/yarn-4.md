@@ -1,14 +1,15 @@
 ---
 layout: default
 category: yarn
-name: Homespun in Deep Orange
+name: Bernat Boa in Multi
 price: $3.99
-image: air-dinos/pteranodon.jpg
+image: product/y-multi2.jpg
 ---
 
 Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity.
 
 ## Specifications
 
-Colour: Deep Orange
-Spool Length: 40m
+- Colour: "Pretty in Pink" Multicolour
+- Spool Length: 40m
+- Scarf Requirements: Makes one scarf
