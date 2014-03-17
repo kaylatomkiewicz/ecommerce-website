@@ -1,0 +1,26 @@
+---
+layout: default
+title: Products
+---
+
+<div class="grid">
+	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+    	<h1>Products</h1>
+    </div>
+    <div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+    	<p class="giga">Yarn</p>
+    </div>
+</div>
+
+<ul>
+    {% for yarn in site.pages %}
+        {% if products.category == 'yarn' %}
+            <li>
+                <a href="{{site.baseurl}}{{dino.url}}">
+                    <img src="{{site.baseurl}}/images/{{yarn.image}}" alt="Yarn Image">
+                    {{dino.name}}
+                </a>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
