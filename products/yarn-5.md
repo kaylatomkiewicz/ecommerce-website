@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: products
 category: yarn
 name: Bernat Truffles
 price: $3.99
@@ -13,3 +13,4 @@ Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity bopp
 - Colour: Bright orange and pink.
 - Spool Length: 35m
 - Scarf Requirements: Makes one scarf
+- Needle: 4.5mm

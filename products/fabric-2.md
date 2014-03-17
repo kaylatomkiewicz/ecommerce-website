@@ -1,15 +1,13 @@
 ---
 layout: products
-title: Homespun in Deep Orange
-category: yarn
-name: Homespun Orange
-price: $3.99
-image: product/y-orange.jpg
+category: fabric
+name: Embroidered Lace
+price: $7.99/m
+image: product/f-black-sheer.jpg
 ---
 
 Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity.
 
 ## Specifications
 
-- Colour: Deep Orange
-- Spool Length: 40m
+- Colour: Black

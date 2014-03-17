@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: products
 category: yarn
-name: Homespun in Dark Blue
+name: Homespun Dark Blue
 price: $4.99
 image: product/y-blue.jpg
 ---

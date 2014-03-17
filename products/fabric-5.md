@@ -1,15 +1,13 @@
 ---
 layout: products
-title: Homespun in Deep Orange
-category: yarn
-name: Homespun Orange
-price: $3.99
-image: product/y-orange.jpg
+category: fabric
+name: Floral Detail Upholstery
+price: $11.99/m
+image: product/f-ltblue.jpg
 ---
 
 Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity.
 
 ## Specifications
 
-- Colour: Deep Orange
-- Spool Length: 40m
+- Colour: Light Blue

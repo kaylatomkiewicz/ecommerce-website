@@ -1,15 +1,16 @@
 ---
 layout: products
-title: Homespun in Deep Orange
 category: yarn
-name: Homespun Orange
+name: Bernat Boa
 price: $3.99
-image: product/y-orange.jpg
+image: product/y-orange-red.jpg
 ---
 
 Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity.
 
 ## Specifications
 
-- Colour: Deep Orange
-- Spool Length: 40m
+- Colour: Bright orange and pink.
+- Spool Length: 35m
+- Scarf Requirements: Makes one scarf
+- Needle: 4.5mm
