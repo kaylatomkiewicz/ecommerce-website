@@ -91,7 +91,6 @@ a,
 a:link {
 	color: rgba(0,102,255,0.5);
 	text-decoration: none;
-	border-bottom: 0.1em solid rgba(0,102,255,0.5);
 	transition: all 200ms linear;
 }
 
@@ -117,14 +116,20 @@ ul li {
 }
 
 ul li:before {
-	content: "►";
+	content: "▸";
 	color: #0066FF;
 	position: absolute;
-	left: -2em;
+	left: -1em;
+}
+
+.inline {
+	display: inline;
 }
 
 ol {
 	font-size: .85rem;
+	margin-left: -2.25rem;
+	color: #414141;
 }
 
 dl {
@@ -198,7 +203,6 @@ table {
 
 }
 
-
 caption {
 	font-size: .75rem;
 	text-align: right;
@@ -234,4 +238,16 @@ a, time, i, ins, b, del, s, data, dfn, q, sub, sup, abbr {
 
 .gutter-side {
 	padding-right: 1.5rem;
+}
+
+.extra-pad-bottom {
+	padding-bottom: 1.5rem;
+}
+
+.center {
+	text-align: center;
+}
+
+.price {
+	color: #6E6E6E;
 }

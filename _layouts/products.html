@@ -2,15 +2,13 @@
 layout: default
 ---
 
+<ol class="mega">
+    <li class="inline gutter-side"><a href="{{site.baseurl}}/products/yarn">Yarn</a></li>
+    <li class="inline"><a href="{{site.baseurl}}/products/fabric">Fabric</a></li>
+</ol>
+
 <h1>{{page.name}}</h1>
 
-<nav>
-	<ul>
-    	<li><a href="{{site.baseurl}}/products/yarn">Yarn</a></li>
-		<li><a href="{{site.baseurl}}/products/fabric">Fabric</a></li>
-    </ul>
-</nav>
-
-<h3>{{page.price}}</h3>
+<h3 class="price">{{page.price}}</h3>
 
 {{content}}
