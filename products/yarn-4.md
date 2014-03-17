@@ -2,6 +2,7 @@
 layout: products
 category: yarn
 name: Bernat Boa Multi
+title: Bernat Boa Multi
 price: $3.99
 image: product/y-multi2.jpg
 ---

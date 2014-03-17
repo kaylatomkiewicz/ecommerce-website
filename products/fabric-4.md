@@ -2,6 +2,7 @@
 layout: products
 category: fabric
 name: Floral Detail Upholstery
+title: Floral Detail in Purple
 price: $4.99/m
 image: product/f-purple.jpg
 ---

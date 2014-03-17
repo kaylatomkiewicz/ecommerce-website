@@ -2,6 +2,7 @@
 layout: products
 category: yarn
 name: Bernat Boa
+title: Bernat Boa
 price: $3.99
 image: product/y-orange-red.jpg
 ---

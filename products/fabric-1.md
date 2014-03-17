@@ -2,6 +2,7 @@
 layout: products
 category: fabric
 name: Black Velvet
+title: Black Velvet
 price: $11.99/m
 image: product/f-black.jpg
 ---

@@ -2,6 +2,7 @@
 layout: products
 category: yarn
 name: Bernat Truffles
+title: Bernat Truffles
 price: $3.99
 image: product/y-orange-pink.jpg
 ---

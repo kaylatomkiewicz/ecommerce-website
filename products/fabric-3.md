@@ -2,6 +2,7 @@
 layout: products
 category: fabric
 name: Blue Upholstery
+title: Blue Upholstery
 price: $6.99/m
 image: product/f-blue.jpg
 ---

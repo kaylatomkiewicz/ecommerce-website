@@ -2,6 +2,7 @@
 layout: products
 category: fabric
 name: Floral Detail Upholstery
+title: Floral Detail in Blue
 price: $11.99/m
 image: product/f-ltblue.jpg
 ---
