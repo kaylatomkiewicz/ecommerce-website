@@ -221,7 +221,11 @@ a, time, i, ins, b, del, s, data, dfn, q, sub, sup, abbr {
 }
 
 .extra-lg-mar {
-	padding top: 3rem;
+	padding-top: 6rem;
+}
+
+.x-lg-mar {
+	padding-top: 12rem;
 }
 
 .extra-mar-below {
@@ -248,6 +252,10 @@ a, time, i, ins, b, del, s, data, dfn, q, sub, sup, abbr {
 	padding-bottom: 1.5rem;
 }
 
+.less-pad {
+	margin-bottom: -.25rem;
+}
+
 .center {
 	text-align: center;
 }
@@ -258,4 +266,8 @@ a, time, i, ins, b, del, s, data, dfn, q, sub, sup, abbr {
 
 .right {
 	float: right;
+}
+
+.listed {
+	display: block;
 }
