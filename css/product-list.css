@@ -8,6 +8,7 @@ p {
 .product {
 	border-top: solid #D9D9D9 1px;
 	padding: 1rem;
+	overflow: hidden;
 }
 
 .less-margin {
