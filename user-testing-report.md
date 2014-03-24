@@ -4,7 +4,7 @@ User testing was conducted by {Kayla Tomkiewicz} on {March 24} between the times
 
 - {Bekka Wright}
 - {Megan Davis}
-- {Sarak Knowles}
+- {Sarah Knowles}
 
 
 ## Tasks
@@ -23,7 +23,7 @@ User testing was conducted by {Kayla Tomkiewicz} on {March 24} between the times
 
 - {Found products efficiently.}
 - {Make product titles darker.}
-- {Added between nav links.}
+- {Add space between nav links.}
 
 ### {Megan Davis}
 
