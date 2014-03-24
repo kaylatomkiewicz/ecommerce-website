@@ -220,6 +220,10 @@ a, time, i, ins, b, del, s, data, dfn, q, sub, sup, abbr {
 	margin-top: 1rem;
 }
 
+.extra-lg-mar {
+	padding top: 3rem;
+}
+
 .extra-mar-below {
 	margin-bottom: 1rem;
 }
@@ -250,4 +254,8 @@ a, time, i, ins, b, del, s, data, dfn, q, sub, sup, abbr {
 
 .price {
 	color: #6E6E6E;
+}
+
+.right {
+	float: right;
 }
