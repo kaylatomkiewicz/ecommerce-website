@@ -12,3 +12,5 @@ Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity bopp
 ## Specifications
 
 - Colour: Black
+
+<a class="btn-alt milli" href="{{site.baseurl}}/cart/">Add to Cart</a>

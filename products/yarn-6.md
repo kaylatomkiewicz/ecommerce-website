@@ -15,3 +15,5 @@ Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity bopp
 - Spool Length: 35m
 - Scarf Requirements: Makes one scarf
 - Needle: 4.5mm
+
+<a class="btn-alt milli" href="{{site.baseurl}}/cart/">Add to Cart</a>

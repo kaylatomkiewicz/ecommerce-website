@@ -14,3 +14,5 @@ Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity bopp
 - Colour: Summer Multicolour
 - Spool Length: 35m
 - Scarf Requirements: Makes one scarf
+
+<a class="btn-alt milli" href="{{site.baseurl}}/cart/">Add to Cart</a>

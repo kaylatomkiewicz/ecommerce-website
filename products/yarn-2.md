@@ -13,3 +13,5 @@ Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity bopp
 
 - Colour: Dark Blue
 - Spool Length: 55m
+
+<a class="btn-alt milli" href="{{site.baseurl}}/cart/">Add to Cart</a>

@@ -13,3 +13,5 @@ Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity bopp
 
 - Colour: Deep Orange
 - Spool Length: 40m
+
+<a class="btn-alt milli" href="{{site.baseurl}}/cart/">Add to Cart</a>
