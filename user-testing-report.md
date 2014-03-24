@@ -1,10 +1,11 @@
 # User Testing Report
 
-User testing was conducted by {your name} on {specific date} between the times of {start time} and {end time} with the following participants:
+User testing was conducted by {Kayla Tomkiewicz} on {March 24} between the times of {4:30} and {4:50} with the following participants:
 
-- Bekka Wright
-- {John Doe}
-- {Jordan Doe}
+- {Bekka Wright}
+- {Megan Davis}
+- {Sarak Knowles}
+
 
 ## Tasks
 
@@ -20,23 +21,19 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 ### {Bekka Wright}
 
-- 
+- {Found products efficiently.}
+- {Make product titles darker.}
+- {Added between nav links.}
 
-### {John Doe}
+### {Megan Davis}
 
-- {He clicked on the link as expected…}
-- {He had troubles completing a specific task…}
-- {He asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+- {Links in product page hard to read.}
+- {Was able to easily navigate.}
 
-### {Jordan Doe}
 
-- {She clicked on the link as expected…}
-- {He had troubles completing a specific task…}
-- {She asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+### {Sarah Knowles}
+
+- {Was able to browse without issue.}
 
 ---
 
@@ -44,15 +41,12 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 ### Critical, Needs Fixing, Unable to Complete
 
-- {All participants had this problem…}
-- etc.
+- {Nothing of note.}
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-- {Two of the participants succeeded where one of them failed…}
-- etc.
+- {None.}
 
 ### Minor, Annoying, Won’t Hinder Completion
 
-- {Participants pointed out this inconsistency…}
-- etc.
+- {Need to make the product titles in the products page more prominent. Had a hard time reading.}
