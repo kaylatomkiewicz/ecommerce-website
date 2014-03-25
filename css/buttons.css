@@ -37,16 +37,16 @@ body {
 	text-align: center;
 }
 
-btn:hover,
-btn:focus,
-btn:active {
+.btn:hover,
+.btn:focus,
+.btn:active {
 	background-color: linear-gradient(to bottom, #60A474, #40A252);
 	border-bottom-color: rgba(0,102,255,0.25);
 }
 
-btn-alt:hover,
-btn-alt:focus,
-btn-alt:active {
+.btn-alt:hover,
+.btn-alt:focus,
+.btn-alt:active {
 	background-color: linear-gradient(to bottom, #60A474, #40A252);
 	border-bottom-color: rgba(0,102,255,0.25);
 }
@@ -57,6 +57,7 @@ btn-alt:active {
 .btn:visited {
 	display: inline-block;
 	padding: .85em 1em;
+	margin: .25em .25em;
 	background-color: #E36062;
 	background-image: linear-gradient(to bottom, #F58284, #E36062);
 	border-radius: 12px;
