@@ -1,13 +1,13 @@
 # Accessibility Testing Report
 
-User testing was conducted by {Kayla Tomkiewicz} on {March 31} between the times of {5:15} and {end time} with the following participants:
+User testing was conducted by {Kayla Tomkiewicz} on {March 31} between the times of {5:15} and {6:30} with the following participants:
 
 - {Bekka Wright}
 - {Megan Davis}
 - {Sarah Knowles}
 - {Caterina O'Leary}
 - {Greg Leblanc}
-- {Taylor Doe}
+- {Alyson Conner}
 
 ## Tasks
 
@@ -38,8 +38,8 @@ User testing was conducted by {Kayla Tomkiewicz} on {March 31} between the times
 
 ### {Greg Leblanc}
 
-- {He completed the task as expected…}
-- {Had trouble going through individual product pages because she got caught up in the sub-nav.}
+- {He completed the task as expected.}
+- {Had trouble going through individual product pages because he got caught up in the sub-nav.}
 
 ### {Alyson Conner}
 
@@ -55,7 +55,7 @@ User testing was conducted by {Kayla Tomkiewicz} on {March 31} between the times
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-- {Two of the participants had trouble navigating product pages because sub-nav confused them).
+- {Two of the participants had trouble navigating product pages because sub-nav confused them. Need to move it below main content and rename).
 
 ### Minor, Annoying, Won’t Hinder Completion
 
