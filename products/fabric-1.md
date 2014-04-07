@@ -7,9 +7,9 @@ price: $11.99/m
 image: product/f-black.jpg
 ---
 
-Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity.
+Beautifully soft and luxurious, this material makes for a great cushion, backdrop, or even dress! The possibilities are endless!
 
-## Specifications
+### Specifications
 
 - Colour: Black
 

@@ -7,9 +7,9 @@ price: $3.99
 image: product/y-multi2.jpg
 ---
 
-Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity.
+Shipped from the Oakville Bernat Warehouse, we aim to make available as many products as we can to our customers. We love these crafty scarf creations and we guarantee you'll love them too! One ball makes one scarf (as long as you follow the directions supplied) and this is just one of the many colours/patterns available!
 
-## Specifications
+### Specifications
 
 - Colour: "Pretty in Pink" Multicolour
 - Spool Length: 40m

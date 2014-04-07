@@ -7,9 +7,9 @@ price: $11.99/m
 image: product/f-ltblue.jpg
 ---
 
-Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity.
+This upholstery goes great with any living space. The texture and sheen combine to form a playful, yet sophisticated elegance that works wonderfully in the form of a cushion, chair upholstery, and even curtains!
 
-## Specifications
+### Specifications
 
 - Colour: Light Blue
 

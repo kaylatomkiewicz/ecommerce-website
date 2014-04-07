@@ -7,9 +7,9 @@ price: $4.99
 image: product/y-blue.jpg
 ---
 
-Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity.
+Spun in our own factory from 100% Canadian materials, this material could not be any more home spun. With a five softness level, this is guaranteed to sooth and content the fussiest baby (or fussiest adult) for years to come.
 
-## Specifications
+### Specifications
 
 - Colour: Dark Blue
 - Spool Length: 55m

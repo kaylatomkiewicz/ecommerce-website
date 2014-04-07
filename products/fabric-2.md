@@ -7,9 +7,9 @@ price: $7.99/m
 image: product/f-black-sheer.jpg
 ---
 
-Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity. Bippity boppity boo. Boo bippity.
+This black, sheer material is wonderful for a variety of crafting and sewing purposes. The embroidery detail throughout the fabric only enhances the handcrafted eloquence of it.
 
-## Specifications
+### Specifications
 
 - Colour: Black
 

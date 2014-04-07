@@ -194,26 +194,6 @@ table td {
 	padding: .5rem 1rem;
 }
 
-@media only screen and (min-width: 30em) {
-
-table {
-	background-color: #FFF;
-	border: #FFF;
-	width: 75%;
-}
-
-}
-
-@media only screen and (min-width: 50em) {
-
-table {
-	background-color: #FFF;
-	border: #FFF;
-	width: 50%;
-}
-
-}
-
 caption {
 	font-size: .75rem;
 	text-align: right;
