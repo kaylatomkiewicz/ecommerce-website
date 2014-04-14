@@ -2,15 +2,19 @@
 layout: default
 ---
 
-<img src="{{page.image}}">
+<img class="module module-s-1 module-m-1 module-l-1-3" src="{{site.baseurl}}/images/{{page.image}}" alt="">
 
-<h1>{{page.name}}</h1>
+<div class="right module module-s-1 module-m-1 module-l-2-3">
+
+<h2 class="extra-mar">{{page.name}}</h2>
 
 <h3 class="price">{{page.price}}</h3>
 
 {{content}}
 
 <ol class="mega right">
-    <li class="inline gutter-side"><a href="{{site.baseurl}}/products/yarn">Go to Yarn</a></li>
-    <li class="inline"><a href="{{site.baseurl}}/products/fabric">Go to Fabric</a></li>
+    <li class="gutter-side"><a href="{{site.baseurl}}/products/yarn">Go to Yarn ➤</a></li>
+    <li><a href="{{site.baseurl}}/products/fabric">Go to Fabric ➤</a></li>
 </ol>
+
+</div>

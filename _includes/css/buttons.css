@@ -11,7 +11,7 @@ body {
 .btn:link,
 .btn:visited {
 	display: block;
-	padding: 1.25em 0;
+	padding: 1.25em 1rem;
 	margin-top: .5rem;
 	background-color: #E36062;
 	background-image: linear-gradient(to bottom, #F58284, #E36062);
@@ -22,20 +22,23 @@ body {
 	border: 0;
 	text-align: center;
 	font-size: .85rem;
+	width: auto;
 }
 
 .btn-alt,
 .btn-alt:link,
 .btn-alt:visited {
-	display: block;
+	display: inline-block;
 	padding: .85em 1em;
+	background-color: #0066FF;
 	background-image: linear-gradient(to bottom, #81C696, #60A474);
 	border-radius: 12px;
 	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
 	color: #FFF;
 	font-weight: bold;
 	border: 0;
-	text-align: center;
+	font-size: 1.0000rem;
+	width: auto;
 }
 
 .btn:hover,
@@ -59,31 +62,5 @@ body {
 	display: inline-block;
 	padding: .85em 1em;
 	margin: .25em .25em;
-	background-color: #E36062;
-	background-image: linear-gradient(to bottom, #F58284, #E36062);
-	border-radius: 12px;
-	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-	color: #FFF;
-	font-weight: bold;
-	border: 0;
-	font-size: 1.0000rem;
-	width: auto;
-}
-
-.btn-alt,
-.btn-alt:link,
-.btn-alt:visited {
-	display: inline-block;
-	padding: .85em 1em;
-	background-color: #0066FF;
-	background-image: linear-gradient(to bottom, #81C696, #60A474);
-	border-radius: 12px;
-	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-	color: #FFF;
-	font-weight: bold;
-	border: 0;
-	font-size: 1.0000rem;
-	width: auto;
-
 }
 }

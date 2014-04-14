@@ -212,6 +212,13 @@ a, time, i, ins, b, del, s, data, dfn, q, sub, sup, abbr {
 	margin-top: 1rem;
 }
 
+@media only screen and (min-width: 50em) {
+
+.extra-mar {
+	margin-top: 0;
+}
+}
+
 .extra-lg-mar {
 	padding-top: 6rem;
 }

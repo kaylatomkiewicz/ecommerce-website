@@ -11,6 +11,6 @@ This upholstery goes great with any living space. The texture and sheen combine 
 
 ### Specifications
 
-- Colour: Light Purple
+- Colour: Light Mauve
 
 <a class="btn-alt milli" href="{{site.baseurl}}/cart/">Add to Cart</a>

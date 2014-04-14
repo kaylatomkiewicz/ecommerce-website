@@ -11,7 +11,7 @@ title: Products
     <ul>
         {% for yarn in site.pages %}
             {% if yarn.category == 'yarn' %}
-                <li class="grid gutter-side module module-s-1 module-m-1-2 module-l-1-3 module-xl-1-4">
+                <li class="kilo grid gutter-side module module-s-1 module-m-1-2 module-l-1-3 module-xl-1-4 extra-mar-below">
                     <a href="{{site.baseurl}}{{yarn.url}}">
                         <img class="module module-s-1 module-m-1 module-l-1" src="{{site.baseurl}}/images/{{yarn.image}}" alt="Yarn Image">
                         {{yarn.name}}
@@ -24,7 +24,7 @@ title: Products
     <ul>
         {% for fabric in site.pages %}
             {% if fabric.category == 'fabric' %}
-                <li class="grid gutter-side module module-s-1 module-m-1-2 module-l-1-3 module-xl-1-4">
+                <li class="kilo grid gutter-side module module-s-1 module-m-1-2 module-l-1-3 module-xl-1-4 extra-mar-below">
                     <a href="{{site.baseurl}}{{fabric.url}}">
                         <img class="module module-s-1 module-m-1 module-l-1" src="{{site.baseurl}}/images/{{fabric.image}}" alt="Fabric Image">
                         {{fabric.name}}
