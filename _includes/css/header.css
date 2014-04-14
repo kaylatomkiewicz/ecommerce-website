@@ -2,8 +2,24 @@
 /* CSS Document */
 
 .title {
-	font-size: 1.9531rem;
+	font-size: 2.4414rem;
 	text-align: center;
+}
+
+@media only screen and (min-width: 30em) {
+
+.title {
+	font-size: 3.0518rem;
+	text-align: center;
+}
+}
+
+@media only screen and (min-width: 50em) {
+
+.title {
+	font-size: 3.0518rem;
+	text-align: right;
+}
 }
 
 .nav {
@@ -45,11 +61,6 @@ ol {
 }
 
 @media only screen and (min-width: 50em) {
-
-.title {
-	font-size: 3.0518rem;
-	float: right;
-}
 
 .nav {
 	text-align: left;
