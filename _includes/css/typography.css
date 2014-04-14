@@ -30,6 +30,13 @@ h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, dl, figure, table {
 h1, .exa {
   font-size: 3.0518rem;
   line-height: 1.1276;
+  text-align: center;
+}
+
+@media only screen and (min-width: 30em) {
+	h1, .exa {
+	  text-align: right;
+	}
 }
 
 h2, .peta {

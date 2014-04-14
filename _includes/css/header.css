@@ -9,17 +9,15 @@
 .nav {
 	margin-right: auto;
 	margin-left: auto;
-	padding-left: 5rem;
-	padding-right: 5rem;
 }
 
-nav a:hover,
-nav a:focus,
-nav a:active {
+.nav a:hover,
+.nav a:focus,
+.nav a:active {
 	background-color: #fff;
 }
 
-nav .selected {
+.nav .selected {
 	background-color: #999;
 }
 
@@ -42,7 +40,8 @@ ol {
 .nav {
 	padding-bottom: 1.5rem;
 	border-bottom: rgba(0,102,255,0.25) solid 4px;
-}
+	text-align: center;
+	}
 }
 
 @media only screen and (min-width: 50em) {
@@ -51,6 +50,10 @@ ol {
 	font-size: 3.0518rem;
 	float: right;
 }
+
+.nav {
+	text-align: left;
+	}
 
 }
 
