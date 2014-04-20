@@ -14,10 +14,10 @@ footer {
 }
 
 .social {
-	width: 2rem;
+	width: 4rem;
 	display: block;
 	border: none;
-	padding: 0 .25rem;
+	padding: 0 .5rem;
 	float: right;
 }
 
