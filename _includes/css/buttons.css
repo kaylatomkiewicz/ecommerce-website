@@ -6,14 +6,12 @@ body {
 	font-family: Helvetica, sans-serif;
 }
 
-
 .btn,
 .btn:link,
 .btn:visited {
 	display: block;
-	padding: 1.25em 1rem;
+	padding: 1.5em 1rem;
 	margin-top: .5rem;
-	background-color: #E36062;
 	background-image: linear-gradient(to bottom, #F58284, #E36062);
 	border-radius: 12px;
 	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
@@ -21,7 +19,7 @@ body {
 	font-weight: bold;
 	border: 0;
 	text-align: center;
-	font-size: .85rem;
+	font-size: 1rem;
 	width: auto;
 }
 
@@ -30,7 +28,6 @@ body {
 .btn-alt:visited {
 	display: inline-block;
 	padding: .85em 1em;
-	background-color: #0066FF;
 	background-image: linear-gradient(to bottom, #81C696, #60A474);
 	border-radius: 12px;
 	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
@@ -44,15 +41,13 @@ body {
 .btn:hover,
 .btn:focus,
 .btn:active {
-	background-color: linear-gradient(to bottom, #60A474, #40A252);
-	border-bottom-color: rgba(0,102,255,0.25);
+	color: #BDBDBD;
 }
 
 .btn-alt:hover,
 .btn-alt:focus,
 .btn-alt:active {
-	background-color: linear-gradient(to bottom, #60A474, #40A252);
-	border-bottom-color: rgba(0,102,255,0.25);
+	color: #BDBDBD;
 }
 	
 @media only screen and (min-width: 30em) {
