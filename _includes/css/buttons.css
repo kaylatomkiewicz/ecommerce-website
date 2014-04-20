@@ -10,7 +10,7 @@ body {
 .btn:link,
 .btn:visited {
 	display: block;
-	padding: 1.25em 1rem;
+	padding: 1.75em 1rem;
 	margin-top: 1rem;
 	background-image: linear-gradient(to bottom, #F58284, #E36062);
 	border-radius: 12px;
